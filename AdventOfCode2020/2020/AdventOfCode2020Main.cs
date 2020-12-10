@@ -13,7 +13,9 @@ namespace AdventOfCode2020
             //_2020Day5.Instance.Run();
             //_2020Day6.Instance.Run();
             //_2020Day7.Instance.Run();
-            _2020Day8.Instance.Run();
+            //_2020Day8.Instance.Run();
+            //_2020Day9.Instance.Run();
+            _2020Day10.Instance.Run();
         }
     }
 }
